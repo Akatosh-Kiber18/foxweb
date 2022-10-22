@@ -1,0 +1,8 @@
+.contactsContainer {
+    display: flex;
+    width: 100%;
+    font-size: 2rem;
+    background-color: blanchedalmond;
+    min-height: 400px;
+    max-height: 400px;
+}
