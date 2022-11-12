@@ -1,6 +1,8 @@
+body {
+  margin-left: 5rem !important;
+  margin-right: 5rem !important;
+}
 .App {
   text-align: center;
-  padding-left: 4rem;
-  padding-right: 4rem;
   background: aliceblue;
 }

@@ -6,18 +6,22 @@ const HeaderMenu = () => {
         {
             name: "Home",
             id: 1,
+            linkTo: "/"
         },
         {
             name: "About",
             id: 2,
+            linkTo: "/about"
         },
         {
             name: "Courses",
             id: 3,
+            linkTo: "/courses"
         },
         {
             name: "Contacts",
             id: 4,
+            linkTo: "/contacts"
         },
     ]
 
