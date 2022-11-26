@@ -1,0 +1,33 @@
+.coursContainer {
+    padding: 5px;
+  }
+
+  .coursContent--collapse {
+    transition: 500ms;
+  }
+
+.coursBtn {
+    width: 100%;
+    height: 2rem;
+}
+
+.line {
+    display: flex;
+    width: 100%;
+    height: 10px;
+    margin-top: 10px;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    cursor: default;
+    border: 1px solid black;
+}
+
+.btnsContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.btnsContainer button {
+    margin-left: 10px;
+}

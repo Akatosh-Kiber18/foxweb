@@ -1,8 +1,5 @@
-body {
-  margin-left: 5rem !important;
-  margin-right: 5rem !important;
-}
 .App {
-  text-align: center;
+  margin-left: 5rem ;
+  margin-right: 5rem ;
   background: aliceblue;
 }
