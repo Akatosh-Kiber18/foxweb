@@ -4,7 +4,7 @@ import styles from './Cours1.module.css';
 import {Collapse} from 'react-collapse';
 
 export const Courses1 = () => {
-        const [cours1Visible, setCours1Visible] = useState(false);
+        const [cours1Visible, setCours1Visible] = useState<boolean>(false);
         return (
             <div className={styles.coursContainer}>
             <button className={styles.coursBtn} onClick={() => setCours1Visible(!cours1Visible)}>COURSNAME</button>
